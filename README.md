@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Amira.
 - 👀 I’m interested in web development.
-<!--- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning freeCodeCamp's Responsive Web Design.
+<!---
 - 💞️ I’m looking to collaborate on ...
 --->
 - 📫 How to reach me: amira.techspace@proton.me
