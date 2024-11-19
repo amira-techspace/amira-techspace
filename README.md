@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amira-techspace" alt="amira-techspace" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/amiraezz4007" target="blank"><img src="https://img.shields.io/twitter/follow/amiraezz4007?logo=twitter&style=for-the-badge" alt="amiraezz4007" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/amiraezz4007" target="blank"><img src="https://img.shields.io/twitter/follow/amiraezz4007?logo=twitter&style=for-the-badge" alt="amiraezz4007" /></a> </p> -->
 
 - 🔭 I’m currently working on **freeCodeCamp's Responsive Web Design Certificate**
 
