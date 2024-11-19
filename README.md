@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=amira-techspace)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=amira-techspace&no-bg=true&no-frame=true&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 - 👋 Hi, I’m Amira.
 - 👀 I’m interested in web development.
